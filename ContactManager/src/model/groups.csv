@@ -1,0 +1,21 @@
+id,name,description,subscribers
+1,Family,Close family members,3,13,21,27
+2,Friends,University friends,4,7,14,25
+3,Work,Colleagues from the office,5,6,8,10,11,30
+4,Gym,Buddies from the gym,12,17,19,23,31
+5,Travel,Travel partners,9,24,32,44
+6,Neighbors,Same neighborhood group,16,18,20,22,27
+7,School,Old school friends,3,28,33,36,41
+8,Sports,Football team,15,26,35,39,48
+9,BookClub,Monthly reading group,13,14,18,40,49
+10,Music,Band members,5,9,21,34,38
+11,CookingClass,Friends from cooking class,4,37,45,3
+12,Photography,Hobby group,10,19,29,43
+13,DesignTeam,Freelance team,6,8,46,50
+14,StartupTeam,Project team,7,11,16,42
+15,Volunteers,Community volunteers,12,20,31,47
+16,Gaming,Lan party friends,17,22,30,44
+17,Artists,Drawing class mates,23,25,38,48
+18,CinemaClub,Film club members,26,27,36,39
+19,Alumni,University alumni,5,15
+20,CyclingClub,Weekend cycling group,6,35,49
